@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/2058-concatenation-of-array) |
 ## String
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1603-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
