@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0027-remove-element) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0189-rotate-array) |
@@ -93,6 +95,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0334-increasing-triplet-subsequence) |
 ## Dynamic Programming
