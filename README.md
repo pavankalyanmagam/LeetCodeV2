@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0792-binary-search) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1395-minimum-time-visiting-all-points) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1395-minimum-time-visiting-all-points) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
