@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0027-remove-element) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
@@ -65,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1395-minimum-time-visiting-all-points) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/2348-number-of-zero-filled-subarrays) |
