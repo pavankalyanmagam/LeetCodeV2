@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0238-product-of-array-except-self) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -47,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -81,6 +84,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
@@ -96,4 +100,8 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
