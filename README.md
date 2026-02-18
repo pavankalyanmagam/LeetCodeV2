@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0217-contains-duplicate) |
@@ -91,5 +92,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
