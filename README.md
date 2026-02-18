@@ -17,6 +17,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/2058-concatenation-of-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/2348-number-of-zero-filled-subarrays) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1395-minimum-time-visiting-all-points) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
