@@ -32,6 +32,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0189-rotate-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
