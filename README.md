@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0706-design-hashmap](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0792-binary-search) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@
 | [0217-contains-duplicate](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0706-design-hashmap](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0706-design-hashmap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -119,4 +121,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
