@@ -37,6 +37,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0392-is-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0268-missing-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0706-design-hashmap](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0706-design-hashmap) |
+| [1189-maximum-number-of-balloons](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1189-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1189-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavankalyanmagam/LeetCodeV2/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
